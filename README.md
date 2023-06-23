@@ -1,6 +1,6 @@
 # Weather App for Mobile Application Development Lab Course
 
-[N.B: This App implemantation Idea was taken by internet & implemantation by myself]
+[N.B: The implemantation idea for this app was taken from internet & implemantation by myself]
 
 The Weather App is an Android application that allows users to retrieve and display weather information for a specified city. The app is developed using XML, Java, and API integration in Android Studio. It provides users with real-time weather data, including sunrise time, sunset time, humidity, pressure, wind speed, minimum temperature, and maximum temperature.
 
